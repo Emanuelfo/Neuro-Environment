@@ -63,7 +63,3 @@ The goal is to demonstrate the direct relationship between urban mental health a
 - **Design:** Dark mode, glassmorphism, smooth gradients, futuristic aesthetics  
 - **Data Processing:** Python (optional for satellite data preprocessing)  
 
----
-
-## Project Structure
-
